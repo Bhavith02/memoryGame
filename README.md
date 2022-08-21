@@ -1,4 +1,4 @@
-# My Memory
+#Memory Game
 
 An open-source Android memory game. Play with the default icons, or play a custom game using photos from your phone. You can also download memory boards made by others by entering the game name.
 
