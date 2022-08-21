@@ -1,0 +1,2 @@
+com/rkpandey/mymemory/BuildConfig.java
+ com.rkpandey.mymemory.BuildConfig
